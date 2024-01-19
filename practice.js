@@ -384,6 +384,7 @@ let obj2 = {
 //    console.log(value);
 //    return Promise.resolve(value);
 // })
+//
 
 
 
